@@ -6,9 +6,6 @@ import javax.persistence.Persistence;
 import javax.persistence.Query;
 import java.util.List;
 
-/**
- * Created by Asus on 30.10.2017.
- */
 public class ClientRepository {
 
     EntityManagerFactory emf;

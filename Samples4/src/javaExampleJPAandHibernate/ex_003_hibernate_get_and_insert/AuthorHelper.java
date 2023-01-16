@@ -7,9 +7,6 @@ import org.hibernate.SessionFactory;
 
 import java.util.List;
 
-/**
- * Created by Asus on 01.11.2017.
- */
 public class AuthorHelper {
 
     private SessionFactory sessionFactory;

@@ -4,9 +4,6 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;
 
-/**
- * Created by Asus on 01.11.2017.
- */
 public class Main {
 
     public static void main(String[] args) {

@@ -4,9 +4,6 @@ import javaExampleJPAandHibernate.ex_003_hibernate_get_and_insert.entity.Author;
 
 import java.util.List;
 
-/**
- * Created by Asus on 01.11.2017.
- */
 public class Main {
 
     public static void main(String[] args) {
